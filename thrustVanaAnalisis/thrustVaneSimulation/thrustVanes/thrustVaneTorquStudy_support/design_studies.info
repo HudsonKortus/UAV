@@ -1,0 +1,22 @@
+<cfd_design_studies user_name="hudso" version="21.0.20201120">
+ <design_study name="thrustVaneTorquStudy_support" folder="C:/Users/hudso/3D Objects/Fusion360Files/thrustVanes/thrustVaneTorquStudy_support" instance_id="id_not_defined" study_id="1822f5c1-a5f2-4f57-966e-90415c7a1706">
+  <design name="Design 0deg" lock_status="false" launcher_type="CP_ASM_STEP_IMPORT" model_id="thrustVaneCFD0deg.cfdsmt">
+   <analysis name="Scenario 1"/>
+  </design>
+  <design name="Design 2deg" lock_status="false" launcher_type="CP_UNKNOWN" model_id="thrustVaneCFD2deg.cfdsmt">
+   <analysis name="Scenario 1"/>
+  </design>
+  <design name="Design 4deg" lock_status="false" launcher_type="CP_UNKNOWN" model_id="thrustVaneCFD4deg.cfdsmt">
+   <analysis name="Scenario 1"/>
+  </design>
+  <design name="Design 6deg" lock_status="false" launcher_type="CP_UNKNOWN" model_id="thrustVaneCFD6deg.cfdsmt">
+   <analysis name="Scenario 1"/>
+  </design>
+  <design name="Design 8deg" lock_status="false" launcher_type="CP_UNKNOWN" model_id="thrustVaneCFD8deg.cfdsmt">
+   <analysis name="Scenario 1"/>
+  </design>
+  <design name="Design 10deg" lock_status="false" launcher_type="CP_UNKNOWN" model_id="thrustVaneCFD10deg.cfdsmt">
+   <analysis name="Scenario 1"/>
+  </design>
+ </design_study>
+</cfd_design_studies>
