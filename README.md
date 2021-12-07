@@ -1,5 +1,5 @@
 # UAV2.0
-UAV2.0 is a thrust vector controlled, electric ducted fan powered UAV. I started this project in June of 2020, and have been working on it off and on ever since. Over the course of this project I have become a better programmer, more confident in Fusion 360, I have learned how to aerodynamically simulate parts in CFD (computational fluid dynamics), and taught myself how to make custom PCBs using EAGLE. There is still work that needs to be done to get the UAV to a place where it can fly. 
+UAV2.0 is a thrust vector controlled, electric ducted fan powered UAV. I started this project in June of 2020, and have been working on it off and on ever since. Over the course of this project I have become a better programmer, more confident in CAD, I have learned how to aerodynamically simulate parts in CFD, and taught myself how to make custom PCBs using EAGLE. There is still work that needs to be done to get the UAV to a place where it can fly. 
 
 
 # ABOUT
