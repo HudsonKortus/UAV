@@ -60,7 +60,7 @@ void intagrateServos() {
                               servo1[pin 8]
                                 |
                 ^               |                ^
-                Z  sevo4  ----- O ----- servo 2  Z[pin 6]
+                Z  servo4  ----- O ----- servo 2  Z[pin 6]
                 v    [pin4]     |                v
                                 |
                            servo 3 [pin 5]
