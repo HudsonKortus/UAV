@@ -1,5 +1,5 @@
-# UAV2.0
-UAV2.0 is a thrust vector controlled, electric ducted fan powered UAV. I started this project in June of 2020, and have been working on it off and on ever since. Over the course of this project I have become a better programmer, more confident in CAD, I have learned how to aerodynamically simulate parts in CFD, and taught myself how to make custom PCBs using EAGLE. There is still work that needs to be done to get the UAV to a place where it can fly. 
+# UAV 2.0
+UAV 2.0 is a thrust vector controlled, electric ducted fan powered UAV. I started this project in June of 2020, and have been working on it off and on ever since. Over the course of this project I have become a better programmer, more confident in CAD, I have learned how to aerodynamically simulate parts in CFD, and taught myself how to make custom PCBs using EAGLE. There is still work that needs to be done to get the UAV to a place where it can fly. 
 
 
 # ABOUT
@@ -8,8 +8,8 @@ The UAV utilizes moveable thrust vanes which are in the exhaust stream of the el
 
 
 # TODO
- * make UAV be teathered to battery intead of carying it because the battery is too heavy
- * change form uing thrust vanes to gimbaling the motor because thrust vanes cannot be practaly mathmaticaly charicterizes
- * rewrite code to be more object oreted
- * replace the PID controler with an LQG controler
+ * make UAV be tethered to battery instead of carrying it because the battery is too heavy
+ * change form using thrust vanes to gimbaling the motor because thrust vanes cannot be practically mathematically characterizes
+ * rewrite code to be more object oriented
+ * replace the PID controller with an LQG controller
  * make FAA compliant
