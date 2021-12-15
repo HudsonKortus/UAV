@@ -1,3 +1,7 @@
+<div align="center">
+    <img align="center" src="images/UAV2.JPG" height="500px" alt="accessibility text">
+</div>
+
 # UAV 2.0
 UAV 2.0 is a thrust vector controlled, electric ducted fan powered UAV. I started this project in June of 2020, and have been working on it off and on ever since. Over the course of this project I have become a better programmer, more confident in CAD, I have learned how to aerodynamically simulate parts in CFD, and taught myself how to make custom PCBs using EAGLE. There is still work that needs to be done to get the UAV to a place where it can fly. 
 
