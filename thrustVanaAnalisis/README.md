@@ -1,4 +1,0 @@
-<img src="../images/Thrust Vane Data.JPG" height="500px" alt="accessibility text">
-
-# About
-In an attempt to characterize the thrust vanes, I did a thorough analysis in CFD of the thrust vanes. I simulated them at different angles and at different airspeeds. For each airspeed and angle, I did the CFD twice to ensure accuracy. In hindsight, I should have done this with the physical vehicle in order to get more accurate results, but you live you learn I guess. Either way, the data is really interesting and will still be helpful if I choose to continue working with thrust vanes in the future. Attached is the thrust vane data neatly organized in a spreadsheet as well as the simulation files for Autodesk CFD if you want to experiment with it yourself.
