@@ -7,7 +7,7 @@ UAV 2.0 is a thrust vector controlled, electric ducted fan powered UAV. I starte
 
 
 # ABOUT
-The UAV utilizes moveable thrust vanes which are in the exhaust stream of the electric ducted fan to stabilize the vehicle. The control system is a very basic PID loop, but I plan to move to an LQG controller which will allow the UAV to hover in one place. All the electronics are custom. I used a Teensy 4.0 for the microcontroller, and BMI 088 for the inertial measurement unit. The electric ducted fan is a basic one I got off amazon which runs off a 4s, 4000mAh lipo. The electric ducted fan produces a little over 1.2kg of static thrust which currently is not enough to lift the ____kg vehicle.
+The UAV utilizes moveable thrust vanes which are in the exhaust stream of the electric ducted fan to stabilize the vehicle. The control system is a very basic PID loop, but I plan to move to an LQG controller which will allow the UAV to hover in one place. All the electronics are custom. I used a Teensy 4.0 for the microcontroller, and BMI 088 for the gyroscope and acceleration reading. The electric ducted fan is a basic one I got off Amazon which runs off a 4s, 4000mAh lipo. The electric ducted fan produces a little over 1.2kg of static thrust which currently is not enough to lift the vehicle.
 
 
 
