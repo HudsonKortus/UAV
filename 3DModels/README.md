@@ -9,8 +9,8 @@ This part mounts the electric ducted fan to the carbon fiber frame. I designed t
 
 # Electronics Disk Mount
 <div align="float left">
-  <img src="../images/EDF Mount.JPG" height="500px" width="500px" alt="image">
-  <img src="../images/EDF Mount.png" height="500px" width="500px" alt="image">
+  <img src="../images/esc Mount.JPG" height="500px" width="500px" alt="image">
+  <img src="../images/carbonPoleMount.png" height="500px" width="500px" alt="image">
 </div>
  This part is used to affix the foam core disk for the electronics to the carbon fiber mount. The round holes are designed to have threaded inserts mounted in them to allow the foam disk to be screwed in, and to allow the mounts to be screwed to the carbon fiber frame. This file contains all 4 mounts arranged radially and ready to be mounted, as well as a single one which will be easier to 3d print, change, or look at.
 
@@ -19,7 +19,6 @@ This part mounts the electric ducted fan to the carbon fiber frame. I designed t
 # ESC Mount
 <div align="float left">
   <img src="../images/ESC Mount.JPG" height="500px" width="500px" alt="image">
-  <img src="../images/ESC Mount.png" height="500px" width="500px" alt="image">
 </div>
 This part mounts the 80A ESC to the bottom of the foam core electronics disk. This part is screwed into the foam board with m2 screws.
 
